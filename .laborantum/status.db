@@ -20333,7 +20333,7 @@
             "status": {
                 "total": 1,
                 "correct": 0,
-                "selectedVariantIds": []
+                "testStatus": []
             }
         }
     ]
